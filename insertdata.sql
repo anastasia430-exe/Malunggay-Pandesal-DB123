@@ -6,11 +6,11 @@ INSERT INTO Categories VALUES (4, 'Snacks');
 INSERT INTO Categories VALUES (5, 'Drinks');
 
 -- menuitems
-INSERT INTO MenuItems VALUES (101, 'Malunggay Pandesal (10pcs)', 1, 25.00, true);
-INSERT INTO MenuItems VALUES (102, 'Cheese Pandesal (10pcs)', 1, 35.00, true);
+INSERT INTO MenuItems VALUES (101, 'Malunggay Pandesal', 1, 25.00, true);
+INSERT INTO MenuItems VALUES (102, 'Cheese Pandesal', 1, 35.00, true);
 INSERT INTO MenuItems VALUES (103, 'Ensaymada', 2, 45.00, true);
 INSERT INTO MenuItems VALUES (104, 'Spanish Bread', 2, 10.00, true);
-INSERT INTO MenuItems VALUES (105, 'Kapeng Barako (Hot)', 5, 30.00, true);
+INSERT INTO MenuItems VALUES (105, 'Kapeng Barako ', 5, 30.00, true);
 
 -- customer
 INSERT INTO Customers VALUES (1, 'Gene', 'gene@gmail.com');
